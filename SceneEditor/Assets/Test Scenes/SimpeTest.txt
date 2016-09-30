@@ -1,0 +1,8 @@
+path: D:\Libraries\Desktop\SceneEditorMerge\sceneeditor\SceneEditor\Assets\Models\Robot\Robot.obj
+trans: 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+color: 0.97 0.96 0.92
+roughness: 0.05
+metal: 0
+light: 
+color: 1 0 0
+position: -0.684392 0.816584 0.443848

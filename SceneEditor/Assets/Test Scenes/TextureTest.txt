@@ -1,0 +1,8 @@
+path: D:\Libraries\Desktop\SceneEditorMerge\sceneeditor\SceneEditor\Assets\Models\Nanosuit\nanosuit.obj
+trans: 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+color: 0 0 0
+roughness: -4.31602e+08
+metal: -4.31602e+08
+light: 
+color: 1 1 1
+position: -0.672141 1.46403 1.00972

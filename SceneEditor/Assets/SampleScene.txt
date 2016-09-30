@@ -1,0 +1,69 @@
+path: Assets\Models\Robot\Robot.obj
+trans: 1.10136 0 0 0 0 1.10136 0 0 0 0 1.10136 0 -2.37141 0.487574 1.95449 1 
+color: 1 0 1
+roughness: 0.6
+metal: 0.5
+path: Assets\Models\Robot\Robot.obj
+trans: 1.20361 0 0 0 0 1.0228 0 0 0 0 1 0 1.02197 0.454425 1.32367 1 
+color: 1 1 0
+roughness: 0.2
+metal: 1
+path: Assets\Models\Robot\Robot.obj
+trans: 1 0 0 0 0 1 0 0 0 0 1 0 -2.48857 0.662903 -2.24484 1 
+color: 0 1 0
+roughness: 0
+metal: 1
+path: Assets\Models\Robot\Robot.obj
+trans: 0.0826584 0 -0.996318 0 0 1 0 0 0.944875 0 0.0783905 0 1.95673 0.513292 -1.18284 1 
+color: 0 1 1
+roughness: 0.5
+metal: 0
+path: Assets\Models\Chair\Chair.obj
+trans: -0.997481 -0.00677867 -0.0705864 -0 -0.0013612 0.997502 -0.0765581 0 0.0708986 -0.0762364 -0.994571 0 0.800809 0.650719 -0.382784 1 
+color: 0.33 0.33 0.33
+roughness: 0.2
+metal: 0
+path: Assets\Models\Robot\Robot.obj
+trans: 0.163642 -0.129604 -2.14371 0 0.0180476 0.814424 -0.0478606 0 2.04617 -0.0360359 0.158374 0 -0.271947 0.630843 0.555958 1 
+color: 1 0.5 0
+roughness: 0.7
+metal: 0
+path: Assets\Models\Nanosuit\nanosuit.obj
+trans: 1.91397 0 0 0 0 1.91411 -0.0316143 0 0 0.0316143 1.91411 0 -0.414051 1.41255 -2.32232 1 
+color: 0 0 0
+roughness: 1
+metal: 0
+path: Assets\Models\Chair\Chair.obj
+trans: 1.00102 0.0214282 0.0562545 0 -0.0216135 0.999788 0.00376674 0 -0.0600286 -0.00532975 1.07021 0 -1.15347 0.655473 -0.395409 1 
+color: 1 1 0
+roughness: 0.4
+metal: 1
+path: D:\Libraries\Desktop\SceneEditorMerge\sceneeditor\SceneEditor\Assets\Models\Primitives\plane.obj
+trans: 6 0 0 0 0 1.8835e-06 -6 0 0 1 3.13916e-07 0 0 0 0 1 
+color: 1 1 1
+roughness: 1
+metal: 0
+path: D:\Libraries\Desktop\SceneEditorMerge\sceneeditor\SceneEditor\Assets\Models\Primitives\plane.obj
+trans: 6.00997 0 0 0 0 3 0 0 0 0 1 0 -0.0157214 1.42 -3.05397 1 
+color: 1 0 0
+roughness: 1
+metal: 0
+path: D:\Libraries\Desktop\SceneEditorMerge\sceneeditor\SceneEditor\Assets\Models\Primitives\plane.obj
+trans: 1.95021e-06 0 6.21252 0 0 2.93144 0 0 -0.886712 0 2.78353e-07 0 3.13161 1.45414 0 1 
+color: 1 1 1
+roughness: -4.31602e+08
+metal: -4.31602e+08
+path: D:\Libraries\Desktop\SceneEditorMerge\sceneeditor\SceneEditor\Assets\Models\Primitives\plane.obj
+trans: 5.88404 0 0 0 0 3.04272 0 0 0 0 0.784699 0 0.117187 1.38876 3.05976 1 
+color: 1 0 0
+roughness: -4.31602e+08
+metal: -4.31602e+08
+light: 
+color: 0 0 0.1
+position: -0.00187378 4.57379 -2.95996
+light: 
+color: 1 1 1
+position: -1.41211 4.05151 -0.442992
+light: 
+color: 0 0.1 0
+position: -4.02248 3.26603 1.59434
